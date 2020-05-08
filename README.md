@@ -12,7 +12,3 @@ Install crispy forms
 pip install django-crispy-forms
 ```
 
-
-
-## Free to use
-Copyright &copy;
